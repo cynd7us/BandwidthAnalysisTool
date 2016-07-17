@@ -1,0 +1,38 @@
+2016-07-16 11:30:38,516 DEBUG script parameters set to default via the config file.
+2016-07-16 11:30:38,516 DEBUG script parameters set to default via the config file.
+2016-07-16 11:30:41,473 DEBUG script has been enabled as a udp server type.
+2016-07-16 11:30:41,473 DEBUG script has been enabled as a udp server type.
+2016-07-16 11:30:44,115 DEBUG run method under udpserver.py has been started
+2016-07-16 11:30:44,115 DEBUG run method under udpserver.py has been started
+2016-07-16 11:30:44,115 DEBUG run method under udpserver.py has been started
+2016-07-16 11:30:44,118 DEBUG socket has been initialized and bind.
+2016-07-16 11:30:44,118 DEBUG socket has been initialized and bind.
+2016-07-16 11:30:44,118 DEBUG socket has been initialized and bind.
+script parameters set to default via the config file.
+script parameters set to default via the config file.
+script has been enabled as a udp server type.
+script has been enabled as a udp server type.
+run method under udpserver.py has been started
+run method under udpserver.py has been started
+run method under udpserver.py has been started
+socket has been initialized and bind.
+socket has been initialized and bind.
+socket has been initialized and bind.
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+error while initializing socket connection, : [Errno 10061] No connection could be made because the target machine actively refused it
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
+Error, send request failed, :[Errno 10057] A request to send or receive data was disallowed because the socket is not connected and (when sending on a datagram socket using a sendto call) no address was supplied
