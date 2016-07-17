@@ -2,6 +2,8 @@
 
 Dunbo is a python tool for bandwidth analysis including support for TCP & UDP connections.
 
+![alt tag](https://s32.postimg.org/6nsad5k05/sysrun_5739.png)
+
 ## Installation
 
 Please notice that Dunbo has been developed under plotly library
